@@ -34,7 +34,11 @@ vue add vuetify
 
 
 Tem que instalar esta versão do Vuex por causa do VueJS 2
+
+
 npm i --save vuex@3.0.1
+
+
 npm i --save vue-router@3.0.2 -E
 
 npm i --save axios
